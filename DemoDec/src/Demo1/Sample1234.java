@@ -11,6 +11,7 @@ public class Sample1234 {
 		System.out.println(a);
 	
 	 System.out.println(s1);
+	 System.out.println();
 
 	}
 
